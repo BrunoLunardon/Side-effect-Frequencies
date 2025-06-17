@@ -1,2 +1,4 @@
-.zip
-.txt
+*.zip
+*.txt
+*.csv
+*.pyc
